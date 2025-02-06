@@ -3,7 +3,7 @@ Good computer resources(好的计算机资源)
 CNC-CMD知识共享平台  
 
 **该项目是帮助大家学习和入门的，虽然很基础，但是万一有些新人就恰恰需要呢？**  
-本项目孵化者：cnc-cmd、[云锻SF-Tech开源社区](https://sf-tech-blog.zuotiya.com/)  
+本项目孵化者：cnc-cmd、[云锻SF-Tech开源社区](https://sf-tech-blog.zuotiya.com/)  、[轻灵科技工作室](https://qlkj.soshu.cx)  
 任何人都可以在此仓库分享你所认为好的资源（文章、视频等），包括不限于计算机的均可。  
 文章、视频都均采用链接，由于GitHub仓库只有1g免费大小，所以大家文章直接保存，视频留链接或留网盘链接即可  
 注：资源均收集于网络，侵权请联系我们删除，我们收集这些是为了便于社团和工作室的成员还有对计算机感兴趣的同学学习，如有产生任何法律后果，本项目的所有贡献者和我们均不负任何法律责任！
@@ -61,3 +61,4 @@ MkDocs基础命令:
 | 2 | lim1t0722 | <a href="https://github.com/lim1t0722"><img src="https://avatars.githubusercontent.com/u/110522531?v=4" alt="lim1t0722" width="100px" height="100px"></a> |
 | 3 | teriyakisushi | <a href="https://github.com/teriyakisushi"><img src="https://avatars.githubusercontent.com/u/83644729?v=4" alt="teriyakisushi" width="100px" height="100px"></a> |
 | 4 | BinbimTech | <a href="https://github.com/BB0813"><img src="https://avatars.githubusercontent.com/u/151659564?s=400&u=cf5787878352049c66efdb596bc0faf64ca5cfba&v=4" alt="BinbimTech" width="100px" height="100px"></a> |
+| 4 | 轻灵科技 | <a href="https://github.com/PUTSIX-PUBLIB"><img src="http://ld.frp.one:52441/d/D/putsix.png?sign=kwfUpDJB1KQRMVN7yKpVSOvy-p6U8L9aCB7ue_KYbAc=:0" alt="AIRSTUDIO" width="100px" height="100px"></a> |
