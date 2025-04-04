@@ -1,6 +1,7 @@
 # GCR:CNC-CMD知识共享平台
 Good computer resources(好的计算机资源)  
 CNC-CMD知识共享平台  
+测试测试
 
 **该项目是帮助大家学习和入门的，虽然很基础，但是万一有些新人就恰恰需要呢？**  
 本项目孵化者：cnc-cmd
