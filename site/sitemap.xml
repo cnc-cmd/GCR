@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://cnc-cmd.github.io/GCR/</loc>
+<<<<<<< HEAD
          <lastmod>2025-04-23</lastmod>
     </url>
     <url>
@@ -115,5 +116,116 @@
     <url>
          <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BE%E7%A8%8B%E7%BB%BC%E5%90%88/</loc>
          <lastmod>2025-04-23</lastmod>
+=======
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/LearningPath/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/about/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/friend/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/roadmap/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E7%BB%BC%E5%90%88%E7%BD%91%E7%AB%99/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E5%89%8D%E7%AB%AF/HTMLCSS/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E5%89%8D%E7%AB%AF/JavaScript/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E5%89%8D%E7%AB%AF/Vue/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E5%89%8D%E7%AB%AF/%E5%89%8D%E7%AB%AF%E9%80%9A%E8%AF%86/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E5%90%8E%E7%AB%AF/Go%E5%90%8E%E7%AB%AF/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E5%90%8E%E7%AB%AF/Java%E5%90%8E%E7%AB%AF/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E5%90%8E%E7%AB%AF/%E5%90%8E%E7%AB%AF%E9%80%9A%E8%AF%86/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/git/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/vscode%E6%8F%92%E4%BB%B6/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/ArticleCollection/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C%2B%2B/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C%E8%AF%AD%E8%A8%80/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Golang/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/JavaScript/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Python/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Rust/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BE%E7%A8%8B%E7%BB%BC%E5%90%88/</loc>
+         <lastmod>2025-02-16</lastmod>
+>>>>>>> 81c21f0a6a8f44b330f18740ed1eac77bcb921a0
     </url>
 </urlset>
