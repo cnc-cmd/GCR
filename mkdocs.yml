@@ -69,6 +69,7 @@ nav:
       - Go后端: '学习资源/后端/Go后端.md'
     - 技术文章:
       - 文章合辑: '学习资源/技术文章/ArticleCollection.md'
+      - MCP: '学习资源/技术文章/MCP.md'
   - 学习路线: 'LearningPath'
   - 友链: 'friend.md'
   - 归档: 'about.md'
