@@ -11,6 +11,7 @@
 ### [韩顺平 Java集合专题 -ArrayList HashMap HashSet List Map TreeMap TreeSet等](https://www.bilibili.com/video/BV1YA411T76k/)
 ### [韩顺平 Java网络多线程专题 - TCP UDP Socket编程 多线程 并发处理 文件传输 新闻推送 Java](https://www.bilibili.com/video/BV1j54y1b7qv/)
 ### [Java程序设计|清华大学](https://www.xuetangx.com/course/THU08091000251/5881461)
+### [黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）](https://www.bilibili.com/video/BV17F411T7Ao)
 
 ## 学习网站推荐：
 ### [Java|CodeGym](https://codegym.cc/)
