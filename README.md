@@ -4,7 +4,7 @@ CNC-CMD知识共享平台
 
 <p align="center">
 [ <b>中</b> |
-<a href="docs/README_En.md">En</a> ]
+<a href="README_EN.md">En</a> ]
 </p>
 **该项目是帮助大家学习和入门的，虽然很基础，但是万一有些新人就恰恰需要呢？**  
 本项目孵化者：cnc-cmd、[云锻开源团队](https://www.yunforge.xyz/)
