@@ -1,0 +1,354 @@
+/* 摇曳露营风格主题 */
+.theme-camping {
+  /* 摇曳露营色彩变量 */
+  --camping-primary: #4a7c59;
+  --camping-secondary: #8fbc8f;
+  --camping-accent: #daa520;
+  --camping-bg-primary: #f0f8f0;
+  --camping-bg-secondary: #e8f5e8;
+  --camping-text-primary: #2d4a2d;
+  --camping-text-secondary: #5a7c5a;
+  --camping-border: #a8d8a8;
+  --camping-shadow: rgba(74, 124, 89, 0.3);
+  --camping-gradient: linear-gradient(135deg, #4a7c59 0%, #8fbc8f 100%);
+  --camping-gradient-light: linear-gradient(135deg, #f0f8f0 0%, #e8f5e8 100%);
+}
+
+/* 全局背景 */
+.theme-camping body {
+  background: var(--camping-bg-primary);
+  background-image: 
+    radial-gradient(circle at 20% 80%, rgba(74, 124, 89, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(143, 188, 143, 0.1) 0%, transparent 50%);
+}
+
+/* 头部样式 */
+.theme-camping .md-header {
+  background: var(--camping-gradient) !important;
+  box-shadow: 0 4px 20px var(--camping-shadow) !important;
+  border-bottom: 3px solid var(--camping-accent);
+}
+
+.theme-camping .md-header__title {
+  color: white !important;
+  font-weight: 700;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.theme-camping .md-header__title::after {
+  content: '🏕️';
+  margin-left: 10px;
+  animation: campingFloat 3s ease-in-out infinite;
+}
+
+/* 导航栏样式 */
+.theme-camping .md-tabs {
+  background: var(--camping-bg-secondary) !important;
+  border-bottom: 3px solid var(--camping-primary);
+}
+
+.theme-camping .md-tabs__link {
+  color: var(--camping-text-primary) !important;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.theme-camping .md-tabs__link:hover {
+  color: var(--camping-primary) !important;
+  transform: translateY(-2px);
+}
+
+.theme-camping .md-tabs__link--active {
+  color: var(--camping-primary) !important;
+  border-bottom: 3px solid var(--camping-accent);
+}
+
+/* 侧边栏样式 */
+.theme-camping .md-sidebar {
+  background: var(--camping-bg-secondary);
+  border-right: 3px solid var(--camping-border);
+}
+
+.theme-camping .md-nav__title {
+  background: var(--camping-gradient) !important;
+  color: white !important;
+  font-weight: 700;
+  text-align: center;
+  border-radius: 10px 10px 0 0;
+  box-shadow: 0 4px 15px var(--camping-shadow);
+}
+
+.theme-camping .md-nav__link {
+  color: var(--camping-text-primary) !important;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  border-radius: 8px;
+  margin: 2px 8px;
+  padding: 8px 12px;
+}
+
+.theme-camping .md-nav__link:hover {
+  background: var(--camping-primary) !important;
+  color: white !important;
+  transform: translateX(5px);
+  box-shadow: 0 4px 15px var(--camping-shadow);
+}
+
+.theme-camping .md-nav__link--active {
+  background: var(--camping-gradient) !important;
+  color: white !important;
+  box-shadow: 0 4px 15px var(--camping-shadow);
+}
+
+/* 主内容区域 */
+.theme-camping .md-main {
+  background: var(--camping-bg-primary);
+}
+
+.theme-camping .md-content {
+  background: white;
+  border-radius: 15px;
+  margin: 20px;
+  padding: 30px;
+  box-shadow: 0 8px 32px var(--camping-shadow);
+  border: 2px solid var(--camping-border);
+  position: relative;
+}
+
+.theme-camping .md-content::before {
+  content: '';
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  width: 50px;
+  height: 50px;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="50">🌲</text></svg>');
+  animation: campingFloat 3s ease-in-out infinite;
+  z-index: 1;
+}
+
+/* 文字样式 */
+.theme-camping body,
+.theme-camping .md-typeset {
+  color: var(--camping-text-primary) !important;
+}
+
+.theme-camping p,
+.theme-camping .md-typeset p,
+.theme-camping .md-typeset li,
+.theme-camping .md-typeset td {
+  color: var(--camping-text-primary) !important;
+  line-height: 1.8;
+}
+
+.theme-camping strong,
+.theme-camping b {
+  color: var(--camping-text-primary) !important;
+  font-weight: 700;
+}
+
+.theme-camping em,
+.theme-camping i {
+  color: var(--camping-text-secondary) !important;
+}
+
+/* 标题样式 */
+.theme-camping h1,
+.theme-camping h2,
+.theme-camping h3,
+.theme-camping h4,
+.theme-camping h5,
+.theme-camping h6 {
+  color: var(--camping-primary) !important;
+  font-weight: 700;
+  position: relative;
+}
+
+.theme-camping h1::after {
+  content: '🏕️';
+  margin-left: 10px;
+  animation: campingFloat 2s infinite;
+}
+
+.theme-camping h2::before {
+  content: '🌲';
+  margin-right: 8px;
+}
+
+.theme-camping h3::before {
+  content: '🔥';
+  margin-right: 8px;
+}
+
+/* 链接样式 */
+.theme-camping a {
+  color: var(--camping-primary) !important;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.theme-camping a:hover {
+  color: var(--camping-secondary) !important;
+  text-shadow: 0 0 8px var(--camping-shadow);
+}
+
+/* 按钮样式 */
+.theme-camping .md-button {
+  background: var(--camping-gradient) !important;
+  color: white !important;
+  border: none;
+  border-radius: 25px;
+  padding: 12px 24px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px var(--camping-shadow);
+}
+
+.theme-camping .md-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px var(--camping-shadow);
+}
+
+/* 代码块样式 */
+.theme-camping .highlight {
+  border-radius: 12px;
+  border: 2px solid var(--camping-border);
+  overflow: hidden;
+  box-shadow: 0 4px 20px var(--camping-shadow);
+}
+
+.theme-camping code {
+  background: var(--camping-bg-secondary) !important;
+  color: var(--camping-text-primary) !important;
+  border-radius: 6px;
+  padding: 2px 6px;
+  border: 1px solid var(--camping-border);
+}
+
+/* 表格样式 */
+.theme-camping table {
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px var(--camping-shadow);
+  border: 2px solid var(--camping-border);
+}
+
+.theme-camping th {
+  background: var(--camping-gradient) !important;
+  color: white !important;
+  font-weight: 700;
+  text-align: center;
+}
+
+.theme-camping td {
+  background: var(--camping-bg-secondary) !important;
+  border-bottom: 1px solid var(--camping-border) !important;
+  transition: all 0.3s ease;
+  color: var(--camping-text-primary) !important;
+}
+
+.theme-camping tr:hover td {
+  background: var(--camping-bg-primary) !important;
+  transform: scale(1.02);
+}
+
+/* 引用块样式 */
+.theme-camping blockquote,
+.theme-camping .md-typeset blockquote {
+  background: var(--camping-bg-secondary) !important;
+  border-left: 4px solid var(--camping-primary) !important;
+  color: var(--camping-text-primary) !important;
+  padding: 15px 20px;
+  margin: 15px 0;
+  border-radius: 0 10px 10px 0;
+  box-shadow: 0 2px 10px var(--camping-shadow);
+}
+
+/* 搜索框样式 */
+.theme-camping .md-search__form {
+  background: white;
+  border-radius: 25px;
+  border: 2px solid var(--camping-border);
+  box-shadow: 0 4px 15px var(--camping-shadow);
+}
+
+.theme-camping .md-search__input {
+  color: var(--camping-text-primary);
+}
+
+.theme-camping .md-search__input::placeholder {
+  color: var(--camping-text-secondary);
+}
+
+/* 页脚样式 */
+.theme-camping .md-footer {
+  background: var(--camping-gradient) !important;
+  color: white !important;
+}
+
+/* 滚动条样式 */
+.theme-camping ::-webkit-scrollbar {
+  width: 12px;
+}
+
+.theme-camping ::-webkit-scrollbar-track {
+  background: var(--camping-bg-primary);
+  border-radius: 10px;
+}
+
+.theme-camping ::-webkit-scrollbar-thumb {
+  background: var(--camping-gradient);
+  border-radius: 10px;
+  border: 2px solid var(--camping-bg-primary);
+}
+
+.theme-camping ::-webkit-scrollbar-thumb:hover {
+  background: var(--camping-secondary);
+}
+
+/* 特殊卡片样式 */
+.theme-camping .anime-card {
+  background: var(--camping-gradient-light);
+  border: 2px solid var(--camping-border);
+  border-radius: 15px;
+  padding: 20px;
+  margin: 15px 0;
+  box-shadow: 0 6px 25px var(--camping-shadow);
+  transition: all 0.3s ease;
+}
+
+.theme-camping .anime-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 35px var(--camping-shadow);
+}
+
+/* 露营风格动画 */
+@keyframes campingFloat {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-8px) rotate(5deg); }
+}
+
+/* 主题切换器在露营主题下的样式 */
+.theme-camping .theme-switcher-button {
+  background: rgba(74, 124, 89, 0.2);
+  border-color: rgba(74, 124, 89, 0.4);
+}
+
+.theme-camping .theme-switcher-button:hover {
+  background: rgba(74, 124, 89, 0.3);
+  border-color: rgba(74, 124, 89, 0.6);
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .theme-camping .md-content {
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .theme-camping h1::after {
+    display: none;
+  }
+}
