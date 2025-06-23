@@ -58,9 +58,11 @@ nav:
       - Python: '学习资源/编程语言/Python.md'
       - Golang: '学习资源/编程语言/Golang.md'
       - Rust: '学习资源/编程语言/Rust.md'
-    - 实用工具:
-      - git: '学习资源/实用工具/git.md'
-      - vscode插件: '学习资源/实用工具/vscode插件.md'
+    - 技术文章:
+      - 文章合辑: '学习资源/技术文章/ArticleCollection.md'
+      - MCP: '学习资源/技术文章/MCP.md'
+    - 人工智能:
+      - 大模型: '学习资源/人工智能/大模型.md'
     - 前端:
       - 前端通识: '学习资源/前端/前端通识.md'
       - HTML/CSS: '学习资源/前端/HTMLCSS.md'
@@ -70,9 +72,10 @@ nav:
       - 后端通识: '学习资源/后端/后端通识.md'
       - Java后端: '学习资源/后端/Java后端.md'
       - Go后端: '学习资源/后端/Go后端.md'
-    - 技术文章:
-      - 文章合辑: '学习资源/技术文章/ArticleCollection.md'
-      - MCP: '学习资源/技术文章/MCP.md'
+    - 实用工具:
+      - git: '学习资源/实用工具/git.md'
+      - vscode插件: '学习资源/实用工具/vscode插件.md'
+
   - 学习路线: 'LearningPath'
   - 友链: 'friend.md'
   - 项目推荐: 'project.md'
