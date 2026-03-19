@@ -1,2 +1,6 @@
 # 项目推荐
-- [Binbim-Blog](https://github.com/BB0813/Binbim-Blog)：基于GitHub Actions & GitHub Pages实现无服务器部署的个人博客系统
+### 1.[AstrBot-可扩展的AI 助手](https://docs.astrbot.app/)
+**Agentic AI 助手，服务个人与群聊**
+**连接 IM / 1000+ 插件扩展 / 通用 Agent 能力编排**
+
+###
