@@ -75,6 +75,7 @@ nav:
     - 实用工具:
       - git: '学习资源/实用工具/git.md'
       - vscode插件: '学习资源/实用工具/vscode插件.md'
+      - V2RayN配置: '学习资源/实用工具/V2RayN配置教程.md'
 
   - 学习路线: 'LearningPath'
   - 友链: 'friend.md'
