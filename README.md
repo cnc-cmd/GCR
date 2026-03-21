@@ -1,6 +1,5 @@
 # GCR:CNC-CMD知识共享平台
 Good computer resources(好的计算机资源)  
-CNC-CMD知识共享平台  
 
 <p align="center">
 [ <b>中</b> |
