@@ -47,11 +47,5 @@ MkDocs基础命令:
 5. 查看帮助信息: ```mkdocs --help```
 
 ### 贡献者
-(注：排名不分先后，按最初贡献时间来定，后续贡献者将会在后面追加)  
 
-| 序号 | 贡献者姓名 | 头像 |
-| ---- | ---- | ---- |
-| 1 | moonsky33 | <a href="https://github.com/moonsky33"><img src="https://avatars.githubusercontent.com/u/152702773?v=4" alt="moonsky33" width="100px" height="100px"></a> |
-| 2 | lim1t0722 | <a href="https://github.com/lim1t0722"><img src="https://avatars.githubusercontent.com/u/110522531?v=4" alt="lim1t0722" width="100px" height="100px"></a> |
-| 3 | teriyakisushi | <a href="https://github.com/teriyakisushi"><img src="https://avatars.githubusercontent.com/u/83644729?v=4" alt="teriyakisushi" width="100px" height="100px"></a> |
-| 4 | BinbimTech | <a href="https://github.com/BB0813"><img src="https://avatars.githubusercontent.com/u/151659564?s=400&u=cf5787878352049c66efdb596bc0faf64ca5cfba&v=4" alt="BinbimTech" width="100px" height="100px"></a> |
+[![Contributors](https://contrib.rocks/image?repo=cnc-cmd/GCR)](https://github.com/cnc-cmd/GCR/graphs/contributors)
