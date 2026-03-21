@@ -19,4 +19,4 @@ Good computer resources(好的计算机资源)
 
 ### ✨ Stars  
 
-[![Star History Chart](https://api.star-history.com/image?repos=cnc-cmd/GCR&type=date&legend=top-left)](https://www.star-history.com/?repos=cnc-cmd%2FGCR&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=cnc-cmd/GCR&type=Date)](https://star-history.com/#cnc-cmd/GCR&Date)

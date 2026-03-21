@@ -12,10 +12,4 @@
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=cnc-cmd%2FGCR&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=cnc-cmd/GCR&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=cnc-cmd/GCR&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=cnc-cmd/GCR&type=date&legend=top-left" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/svg?repos=cnc-cmd/GCR&type=Date)](https://star-history.com/#cnc-cmd/GCR&Date)
